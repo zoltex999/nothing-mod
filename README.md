@@ -34,21 +34,3 @@ For all these reasons, the answer to the question "Is nothing possible with accu
       </p>
    </div>
 </div>
-
-<style>
-#main-text {
-    font-size: 36px !important;
-    margin-bottom: 200px !important;
-    font-weight: bold !important;
-    color: #ff0000 !important;
-}
-
-#rest-text {
-    font-size: 10px !important;
-    max-width: 500px !important;
-    margin: 0 auto !important;
-    text-align: left !important;
-    line-height: 1.2 !important;
-    opacity: 0.7 !important;
-}
-</style>
