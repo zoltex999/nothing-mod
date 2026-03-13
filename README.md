@@ -3,10 +3,10 @@
       <img src="logo.png" alt="Logo" width="120" height="120">
    </a>
    <h1 align="center">Nothing Mod</h1>
-   <p align="center" style="font-size: 1.5em; margin-bottom: 2em;">
+   <p align="center" style="font-size: 2.2em; margin-bottom: 5em; font-weight: bold;">
       a useless mod that adds nothing to the game
    </p>
-   <div style="font-size: 0.8em; max-width: 800px; margin: 0 auto; text-align: left;">
+   <div style="font-size: 0.7em; max-width: 700px; margin: 0 auto; text-align: left; line-height: 1.4;">
       <p>
          but is nothing possible with accurate hitboxes
          No, nothing is not possible with accurate hitboxes. In fact, accurate hitboxes are one of the fundamental elements that make interaction systems in games, simulations, and physics-based environments reliable and meaningful. A hitbox is the invisible geometric boundary used by a program to determine whether two objects interact or collide. When these boundaries closely match the visible shape or intended interaction area of an object, the system becomes predictable and consistent. Because of this, accurate hitboxes enable many things rather than preventing them.
@@ -27,7 +27,7 @@ Finally, accurate hitboxes also improve accessibility and player learning. When 
 
 For all these reasons, the answer to the question "Is nothing possible with accurate hitboxes?" is clearly no. Accurate hitboxes do not prevent possibilities; they create the conditions that allow precise, reliable, and understandable interactions to exist. They make gameplay fairer, physics more stable, development easier, and player experiences more consistent. Rather than limiting what can be done, accurate hitboxes expand the range of mechanics and designs that developers can confidently implement.
       </p>
-      <p style="text-align: right; font-style: italic;">
+      <p style="text-align: right; font-style: italic; margin-top: 2em;">
          *text by ItsMeChatGpt*
       </p>
    </div>
